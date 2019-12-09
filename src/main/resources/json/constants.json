@@ -1,0 +1,31 @@
+{
+  "starterHeal": 30,
+  "starterMana": 0,
+  "starterManaSlot": 0,
+  "maxManaSlots": 10,
+  "deckSize": 20,
+  "randomCardCountFirstTurn": 3,
+  "manaCosts": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "cardCountsByManaCost": [
+    2,
+    2,
+    3,
+    4,
+    3,
+    2,
+    2,
+    1,
+    1
+  ],
+  "opponentTurnKey": "T"
+}

@@ -1,0 +1,210 @@
+{
+  "0": [
+    {
+      "name": "Moonfire 1",
+      "manaCost": 0,
+      "damage": 0
+    },
+    {
+      "name": "Moonfire 2",
+      "manaCost": 0,
+      "damage": 0
+    },
+    {
+      "name": "Moonfire 3",
+      "manaCost": 0,
+      "damage": 0
+    },
+    {
+      "name": "Moonfire 4",
+      "manaCost": 0,
+      "damage": 0
+    }
+  ],
+  "1": [
+    {
+      "name": "Lightning Bolt 1",
+      "manaCost": 1,
+      "damage": 1
+    },
+    {
+      "name": "Lightning Bolt 2",
+      "manaCost": 1,
+      "damage": 1
+    },
+    {
+      "name": "Lightning Bolt 3",
+      "manaCost": 1,
+      "damage": 1
+    },
+    {
+      "name": "Lightning Bolt 4",
+      "manaCost": 1,
+      "damage": 1
+    }
+  ],
+  "2": [
+    {
+      "name": "Shiv 1",
+      "manaCost": 2,
+      "damage": 2
+    },
+    {
+      "name": "Shiv 2",
+      "manaCost": 2,
+      "damage": 2
+    },
+    {
+      "name": "Shiv 3",
+      "manaCost": 2,
+      "damage": 2
+    },
+    {
+      "name": "Shiv 4",
+      "manaCost": 2,
+      "damage": 2
+    }
+  ],
+  "3": [
+    {
+      "name": "Lava Burst 1",
+      "manaCost": 3,
+      "damage": 3
+    },
+    {
+      "name": "Lava Burst 2",
+      "manaCost": 3,
+      "damage": 3
+    },
+    {
+      "name": "Lava Burst 3",
+      "manaCost": 3,
+      "damage": 3
+    },
+    {
+      "name": "Lava Burst 4",
+      "manaCost": 3,
+      "damage": 3
+    },
+    {
+      "name": "Lava Burst 5",
+      "manaCost": 3,
+      "damage": 3
+    },
+    {
+      "name": "Lava Burst 6",
+      "manaCost": 3,
+      "damage": 3
+    },
+    {
+      "name": "Lava Burst 7",
+      "manaCost": 3,
+      "damage": 3
+    },
+    {
+      "name": "Lava Burst 8",
+      "manaCost": 3,
+      "damage": 3
+    }
+  ],
+  "4": [
+    {
+      "name": "Fireball 1",
+      "manaCost": 4,
+      "damage": 4
+    },
+    {
+      "name": "Fireball 2",
+      "manaCost": 4,
+      "damage": 4
+    },
+    {
+      "name": "Fireball 3",
+      "manaCost": 4,
+      "damage": 4
+    },
+    {
+      "name": "Fireball 4",
+      "manaCost": 4,
+      "damage": 4
+    },
+    {
+      "name": "Fireball 5",
+      "manaCost": 4,
+      "damage": 4
+    },
+    {
+      "name": "Fireball 6",
+      "manaCost": 4,
+      "damage": 4
+    }
+  ],
+  "5": [
+    {
+      "name": "Holy Wrath 1",
+      "manaCost": 5,
+      "damage": 5
+    },
+    {
+      "name": "Holy Wrath 2",
+      "manaCost": 5,
+      "damage": 5
+    },
+    {
+      "name": "Holy Wrath 3",
+      "manaCost": 5,
+      "damage": 5
+    },
+    {
+      "name": "Holy Wrath 4",
+      "manaCost": 5,
+      "damage": 5
+    }
+  ],
+  "6": [
+    {
+      "name": "Startfire 1",
+      "manaCost": 6,
+      "damage": 6
+    },
+    {
+      "name": "Startfire 2",
+      "manaCost": 6,
+      "damage": 6
+    },
+    {
+      "name": "Startfire 3",
+      "manaCost": 6,
+      "damage": 6
+    },
+    {
+      "name": "Startfire 4",
+      "manaCost": 6,
+      "damage": 6
+    }
+  ],
+  "7": [
+    {
+      "name": "Greater Arcane Missiles 1",
+      "manaCost": 7,
+      "damage": 7
+    },
+    {
+      "name": "Greater Arcane Missiles 2",
+      "manaCost": 7,
+      "damage": 7
+    }
+  ],
+  "8": [
+    {
+      "name": "Pyroblast 1",
+      "manaCost": 8,
+      "damage": 8
+    },
+    {
+      "name": "Pyroblast 2",
+      "manaCost": 8,
+      "damage": 8
+    }
+  ]
+}
